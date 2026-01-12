@@ -6,36 +6,20 @@ This project is a simple **Student Information System** developed using **Java**
 
 ## 🧩 Features
 
-- 📋 Add, update, and delete student records  
-- 📚 Manage courses and grades  
-- 🧠 Uses OOP concepts: Classes, Inheritance, Encapsulation  
-- 🖥️ Console-based interface for interaction
+* 📝 **Student Management:** Add, update, and delete student records.
+* 📊 **Grade System:** Manage courses and calculate grades.
+* 🧠 **OOP Concepts:** Demonstrates Inheritance, Encapsulation, and Polymorphism.
+* 💻 **Console Interface:** Simple CLI for user interaction.
 
 ---
 
 ## 🛠 Technologies
 
-- Java (Standard Edition)
-- Object-Oriented Programming (OOP)
-- CLI (Command-Line Interface)
+* **Java** (Standard Edition)
+* **Object-Oriented Programming (OOP)**
+* **CLI** (Command-Line Interface)
 
----
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-# 🎓 Öğrenci Bilgi Sistemi – Java
-
-Bu proje, **Java** ile geliştirilmiş basit bir **Öğrenci Bilgi Sistemi** uygulamasıdır. OOP (NYP) kavramlarıyla öğrenci kayıtlarını ve notlarını yönetme işlemleri yapılabilmektedir.
-
----
-
-## 🧩 Özellikler
-
-- 📋 Öğrenci ekleme, düzenleme ve silme  
-- 📚 Ders ve not yönetimi  
-- 🧠 Sınıf yapısı, kalıtım ve kapsülleme gibi OOP prensipleri  
-- 🖥️ Konsol tabanlı kullanıcı arayüzü
-
----
-
-## 👨‍💻 Developer / Geliştirici
-
-**Yusuf Tufan**  
+Copyright (c) 2024 YusufTufan
